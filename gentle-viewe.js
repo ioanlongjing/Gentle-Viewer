@@ -6,9 +6,9 @@
 // @icon         http://e-hentai.org/favicon.ico
 // @author       KNowlet
 // @match        http://g.e-hentai.org/g/*
-// @match        http://exhentai.org/g/*
+// @match        https://exhentai.org/g/*
 // @include      http://g.e-hentai.org/g/*
-// @include      http://exhentai.org/g/*
+// @include      https://exhentai.org/g/*
 // @grant        none
 // @downloadURL  https://github.com/knowlet/Gentle-Viewer/raw/master/GentleViewer.user.js
 // ==/UserScript==
